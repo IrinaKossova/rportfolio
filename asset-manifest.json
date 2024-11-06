@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/rportfolio/static/css/main.1a2b7177.css",
+    "main.js": "/rportfolio/static/js/main.a72dc053.js",
+    "static/media/match.png": "/rportfolio/static/media/match.b4db6e1147f0eb3c75a3.png",
+    "static/media/sounds.png": "/rportfolio/static/media/sounds.8b54128e6035d2e7b8fd.png",
+    "static/media/birds.png": "/rportfolio/static/media/birds.892358543dfd5d0e7808.png",
+    "static/media/adventures.png": "/rportfolio/static/media/adventures.c2e91f3bc0da5909231a.png",
+    "static/media/profile.jpg": "/rportfolio/static/media/profile.abd027dc0f5fdd9fe758.jpg",
+    "static/media/cafe.png": "/rportfolio/static/media/cafe.51de365fc0020ec64204.png",
+    "static/media/groceries.png": "/rportfolio/static/media/groceries.022639f6190ffe138e87.png",
+    "static/media/candles.png": "/rportfolio/static/media/candles.dad5e8c084dfee417162.png",
+    "static/media/html.png": "/rportfolio/static/media/html.a031633e09f8cbbcff12.png",
+    "static/media/vscode.png": "/rportfolio/static/media/vscode.19edc3fbac1c451f289d.png",
+    "static/media/background.jpg": "/rportfolio/static/media/background.db7be4df5bce2c1a582e.jpg",
+    "static/media/nodejs.png": "/rportfolio/static/media/nodejs.2558e193661712f4a96c.png",
+    "static/media/mongodb.png": "/rportfolio/static/media/mongodb.f827e30e47f1e051f38a.png",
+    "static/media/postman.png": "/rportfolio/static/media/postman.12b1b3eb97e86e86fe41.png",
+    "static/media/reactjs.png": "/rportfolio/static/media/reactjs.202db81230925a9912ee.png",
+    "static/media/expressjs.png": "/rportfolio/static/media/expressjs.25bb9621b15408c07e68.png",
+    "index.html": "/rportfolio/index.html",
+    "main.1a2b7177.css.map": "/rportfolio/static/css/main.1a2b7177.css.map",
+    "main.a72dc053.js.map": "/rportfolio/static/js/main.a72dc053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a2b7177.css",
+    "static/js/main.a72dc053.js"
+  ]
+}
